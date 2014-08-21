@@ -1,0 +1,5 @@
+# Leisure Pavilion changelog
+
+## 2014-08-21 0.01
+
+* First version.
